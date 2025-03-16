@@ -48,8 +48,7 @@ Each document **summarizes the essential topics concisely** while ensuring you g
 
 ## 🌍 Additional Resources
 - [Microsoft Learn – AZ-900](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
-- [Microsoft Learn – AI-900](https://learn.microsoft.com/en-us/certifications/exams/ai-900/)  
-- [Official Practice Tests (Microsoft)](https://learn.microsoft.com/en-us/certifications/resources/)  
+- [Microsoft Learn – AI-900](https://learn.microsoft.com/en-us/certifications/exams/ai-900/)
 
 ---
 
